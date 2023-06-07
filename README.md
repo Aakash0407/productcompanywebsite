@@ -85,7 +85,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2023 EduSoft Private Limited, Developed by Priyanka.A
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by Aakash P.
       </div>
     </div>
   </body>
@@ -165,11 +165,146 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+        Copyright &#169; 2021 EduSoft Private Limited, Developed by Aakash P.
       </div>
     </div>
     </div>
   </body>
+</html>
+```
+### people.html
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>EduSoft Private Limited</title>
+    
+     <link rel="stylesheet" href="./layout1.css">
+    <link rel="icon" href="w0.jpg" type="image/x-icon">
+    
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner">EduSoft Private Limited.</div>
+      <div class="menu">
+        <div class="menuitemselected"><a href="/home/">Home</a></div>
+        <div class="menuitemselected"><a href="/products/">Products</a></div>
+        <div class="menuitemselected"><a href="/people/">People</a></div>
+        <div class="menuitemselected"><a href="/contactus/">Contact Us</a></div>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>PEOPLE AT EDUSOFT</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./people/p1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Mickel</div>
+                  <div class="itemprice">Managing Director</div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./people/p2.png"  alt="product image">
+                  </div>
+                  <div class="itemname">Franklin</div>
+                  <div class="itemprice">Co-founder and Chairman of the Board </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./people/p3.png" alt="product image">
+                  </div>
+                  <div class="itemname">Trevor</div>
+                  <div class="itemprice">Lead Independent Director </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./people/p4.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">TOM</div>
+                  <div class="itemprice">Independent Director India </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./people/p5.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Walker</div>
+                  <div class="itemprice">Independent Director </div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./people/p6.webp" alt="product image">
+                  </div>
+                  <div class="itemname">Musk</div>
+                  <div class="itemprice">Independent Director</div>
+              </div>
+             
+          </div>
+          </div>        
+      </div>
+      <div class="footer">
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by Aakash P.
+      </div>
+    </div>
+  </body>
+</html>
+```
+### contacts.html
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>EduSoft Private Limited</title>
+   <link rel="stylesheet" href="./layout1.css">
+    <link rel="icon" href="/static/icon.png" type="image/x-icon">
+     
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner">EduSoft Private Limited.</div>
+      <div class="menu">
+        <div class="menuitemselected"><a href="/home/">Home</a></div>
+        <div class="menuitemselected"><a href="/products/">Products</a></div>
+        <div class="menuitemselected"><a href="/people/">People</a></div>
+        <div class="menuitemselected"><a href="/contactus/">Contact Us</a></div>
+      </div>
+      <div class="content">
+          
+            <h1>Contact Us</h1>
+  <p>If you have any questions or feedback, please don't hesitate to reach out to us.</p>
+  <ul>
+    <li>Address: 123,Mr John Smith. 132, My Street, Kingston, New York 12401.</li>
+    <li>Phone: +91 8765432109</li>
+    <li>Email: contact@edusoft.com</li></ul>
+  
+<h2> Sales Inquiries</h2>
+
+<ul><li>UK 1800 103 11231800 572 3535</li></ul>
+    <h2>Press Inquiries</h2> 
+<ul><li>press@edusoft.com</li>
+
+<li>Trevor</li>
+<li>Trevor@edusoft.com</li></ul>
+    <h2>Analyst Relations</h2> 
+
+    <ul><li>Franklin</li>
+    <li>+1-925-924-9500</li>
+    <li>Franklin@edosoft.com</li></ul>
+        <h2>Customer Relations</h2> 
+
+    <ul><li>Mickel</li>
+    <li>Director of Sales & Customer Service</li>
+    <li>Mickel@edusoft.com</li>
+    </ul>
+    
+  </div>
+   <div class="footer">
+        Copyright &#169; 2023 EduSoft Private Limited, Developed by Aakash P.
+      </div>
+      </div>
+</body>
 </html>
 ```
 ### layout.css
@@ -324,16 +459,16 @@ body {
 ```
 ## OUTPUT:
 ### Home Page:
-![home](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/7efdb022-cff4-4cd2-ac53-3316a38271c1)
+![home](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/96ba9863-74e7-4810-9b9a-8c71b42d4831)
 
 ### Products Page:
-![products](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/5fc458b5-9fb1-452f-8dd1-9eea11cfcc81)
+![products](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/9dab3800-08e7-4cd2-859f-12f9daa84aeb)
 
 ### People Page:
-![people](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/25d34a21-9e54-44b2-8421-de70f6cb1f4c)
+![people](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/2acffa5b-e78a-4d60-91c0-2a1aa304c8b8)
 
 ### Contacts Page:
-![contacts](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/c15d233c-5084-4fde-b84b-8422b9807d61)
+![contacts](https://github.com/Aakash0407/productcompanywebsite/assets/118799103/20d50557-784d-495e-91d9-ffd1595a922b)
 
 ## Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
